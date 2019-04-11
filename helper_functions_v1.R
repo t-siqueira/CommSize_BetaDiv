@@ -38,7 +38,7 @@ library(vegan)
 #                   "plot" = rep(rep(1:n.plots, each = n.spp), times = n.sites))
 
 # Create a column of abundances for each species in each plot/quadrat, randomly 
-# assinged from a poisson distribution.
+# assigned from a poisson distribution.
 # data$abundance <- c(0)
 # data$abundance <- rpois(length(data$abundance), 0.5)
 
